@@ -4,6 +4,11 @@ A real-time PC monitoring project that sends **CPU usage, GPU usage, FPS, and sy
 
 The project combines Python system monitoring, Wi-Fi/HTTP communication, ESP8266 web-server handling, and an I2C LCD.
 
+
+
+![Uploading ChatGPT Image Sep 21, 2026, 05_19_42 PM.png…]()
+
+
 ---
 
 ## Project Overview
