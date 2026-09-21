@@ -856,14 +856,3 @@ Possible extensions include:
 
 ---
 
-## License
-
-This project is intended for learning, experimentation, and personal use. Add your preferred license before publishing if you plan to distribute or modify the project publicly.
-
----
-
-## Author
-
-**Kuralarasan S**
-
-Built as a hardware + software PC monitoring project using **Python, ESP8266, Wi-Fi, I2C LCD, NVML, and RTSS**.
