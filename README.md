@@ -4,6 +4,9 @@ A real-time PC monitoring project that sends **CPU usage, GPU usage, FPS, and sy
 
 The project combines Python system monitoring, Wi-Fi/HTTP communication, ESP8266 web-server handling, and an I2C LCD.
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/2be475bd-b362-4229-8cc8-6aeac16e4063" />
+
+
 ---
 
 ## Project Overview
